@@ -1,0 +1,1 @@
+opencv_traincascade -data data -vec man.vec -bg Train/neg.lst -numPos 500 -numNeg 1218 -numStages 25 -w 14 -h 36 -featureType HAAR
