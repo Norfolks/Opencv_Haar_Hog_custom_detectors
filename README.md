@@ -11,16 +11,14 @@ Download dataset:
 ```
 wget ftp://ftp.inrialpes.fr/pub/lear/douze/data/INRIAPerson.tar
 ```
-After downloading create links of Test and Train data
+After downloading create links of Test and Train data to the project folder.
 
 
 # How to train your classifier
 
-Download INRIA dataset and make Test and Train links to the defult folder
+To train Haar look at usefull links part
 
 To train HOG SVM run train_hog.py
-
-To train Haar cascade read opencv documentation
 
 # Check classifiers
 
